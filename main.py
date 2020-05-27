@@ -19,6 +19,4 @@ GPIO.setmode(GPIO.BCM)
 
 # FONCTIONS
 
-def boucle_generale() :
-    while True :
 
